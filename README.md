@@ -17,7 +17,7 @@ A simple Python ETL pipeline that fetches real-time weather data from the OpenWe
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/weather-api-etl.git
+   git clone  https://github.com/sshossen/weather_ctg.git
    cd weather-api-etl
 2. Create virtual environment and install dependencies:
 	```bash
